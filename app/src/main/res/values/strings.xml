@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Meramput</string>
+
+    <string name="content_text">Ventela x NeverTooLavish HARD13 Noir Low</string>
+    <string name="content_specs_display">39 - 44</string>
+    <string name="content_specs_size">Noir High = Rp. 469.800
+        Noir low= Rp. 449.800</string>
+    <string name="content_specs_battery">Bekerja sama dengan Nevertoolavish, Ventela mengajak Anda untuk mewakili Seni dan Street culture dalam pembuatan Hard13 - Noir. Setiap detail memiliki sebuah arti dan makna. Sebuah dedikasi yang dilakukan dari imajinasi Bernhard Suryaningrat a.k.a Hardthirteen yang telah terjun dalam perkembangan pergerakkan budaya Seni Graffiti ke level yang dapat diterima dan diapresiasi oleh seluruh lapisan Masyarakat melalui Passion dan Inovasi. ⁣⁣
+⁣⁣
+        </string>
+    <string name="content_price">Rp. 500.000</string>
+    <string name="intent_with_result">Intent With Result</string>
+    <string name="implicit_intent">Implicit Intent</string>
+    <string name="intent_with_parcelable">Intent With Parcelable</string>
+    <string name="intent_with_data">Intent With Data</string>
+    <string name="simple_activity">Simple Activity</string>
+    <string name="profile">Profile</string>
+    <string name="noberto">Noberto</string>
+    <string name="back">Back</string>
+    <string name="todo">TODO</string>
+    <string name="_6_photos">6 Photos</string>
+</resources>
